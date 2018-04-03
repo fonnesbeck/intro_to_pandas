@@ -1,0 +1,14 @@
+name: pandas_intro
+dependencies:
+- python=3.6
+- ipython
+- ipywidgets
+- jupyter
+- matplotlib
+- notebook
+- numpy
+- pandas
+- pandas-datareader
+- pip
+- seaborn
+
